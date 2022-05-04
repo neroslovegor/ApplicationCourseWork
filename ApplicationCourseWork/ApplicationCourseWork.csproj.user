@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="InsertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Query9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
